@@ -1,6 +1,19 @@
 # ZackysSlave
 A Discord Bot I made for a Friend
 
+## Commands:
+
+- Prefix = `;`
+- Commands are:
+  - `ping` : Get the Bot Latency
+  - `help` : Stop it. Get some help.
+  - `hug @member` : Show some Love
+  - `cuddle @member` : Show your affection to someone
+  - `hentai` : BONK - Go to horny Jail
+  - `uptime` : See the bot's Uptime
+  - `userinfo @member` : See Member Info
+  - `serverinfo` : See Server Info
+  - `sudo @member <your message>` : Create a Webhook to Impersonate other Members
 
 ## LICENSE:
 
