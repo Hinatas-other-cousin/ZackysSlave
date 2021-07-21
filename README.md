@@ -17,6 +17,8 @@ A Discord Bot I made for a Friend
 
 ## LICENSE:
 
+Remixes are allowed lol but the Bot isnt done yet
+
 ### MFY LICENSE
 > Version 0.3 of June 2021
   
